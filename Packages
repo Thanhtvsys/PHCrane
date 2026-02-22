@@ -287,3 +287,20 @@ Depiction: https://Thanhtvsys.github.io/phcrane/index.html
 Icon: file://https://Thanhtvsys.github.io/phcrane/CydiaIcon.png
 Name: PHCrane
 
+Package: com.thanhtvsys.phcrane
+Version: 2.16-5-40
+Architecture: iphoneos-arm
+Maintainer: Thanh Tran <admin@phcrane.com>
+Depends: firmware (>= 15.0)
+Filename: ./debs/PHCrane\_v2.16-5-40.deb
+Size: 108738
+MD5sum: aaffa05a46e9055bfd4613b5912a9418
+SHA1: 4052a9f9bbd43480f350a360921f916a129c91cc
+SHA256: 986305a00cefe37f3648beda0efd9276b47e6c9bad3e8364dadf6613fcea3c3a
+Section: Utilities
+Description: Kho tải tweak PHCrane chính chủ. Hỗ trợ iOS 15 - 18.
+Author: Thanh Tran
+Depiction: https://Thanhtvsys.github.io/phcrane/index.html
+Icon: file://https://Thanhtvsys.github.io/phcrane/CydiaIcon.png
+Name: PHCrane
+
