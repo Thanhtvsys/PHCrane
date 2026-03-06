@@ -5,12 +5,12 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Kho tải tweak PHCrane chính chủ. Hỗ trợ iOS 15 - 18.
+Description: Kho tải tweak PHCrane chính chủ. Bao gồm App quản lý và Tweak ngầm.
 MD5Sum:
- 94055d46d71425e846c1f965c66386b8 14062 Packages
- a4b772d41b0e5246fc842e0125fc4429 2801 Packages.bz2
- 193acb5c0bfc8346f406dbaf0b6bc5d7 2773 Packages.gz
+ 61334232a7f34e10e6c406cc3088d533 14712 Packages
+ ef09340fe18171667a59fee94bd55d8d 2913 Packages.bz2
+ 5e4f54078f7384e6e2859b08e37123ca 2943 Packages.gz
 SHA256:
- 8984bf70d076e0fb35e54676198f62099fcfcb765f03c7482b40b160e8cae77d 14062 Packages
- 21b9c98824954e4643939779c788eaf7ac29d5d4922cc9ff6b8460408ab4426b 2801 Packages.bz2
- 773eb4fab995b40a20b4425b258d28a6c9c4d1be1c5e814c7dd6cf82bf596deb 2773 Packages.gz
+ c9e496ef28436e2530307158bd8d94f40f24389d5c713c56b263b576517b1166 14712 Packages
+ f57d90b5b2f16615456029aa192216eaf9faed8eaaa7085460247c34497f6982 2913 Packages.bz2
+ f7e686d43fcb4162ddda8e5cf6c449a4bd365a230b7fd3287783c1d8bd4cab5a 2943 Packages.gz
